@@ -35,7 +35,7 @@ public class MaxAndMinArrayElement {
         System.out.print("Max element: "+max+"\n"+"Min element: "+min);
     }
     }
-            
+             
             
 
         
